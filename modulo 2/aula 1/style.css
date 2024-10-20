@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+/* ligther normal bold bolder */
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+h1{
+   font: italic bolder 3em 'Work Sans', sans-serif;
+   /* shorthand font
+
+   * font-style
+   font weight
+   font-size
+   font-family
+   */
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 2em;
+    font-style: italic;
+}
+
+img{
+    width: 200px;
+}
+
+   /* medidas de fontes
+    cm, mm, in, px, pt, pc,
+
+    Medidas relativas
+    em, ec, rem, vw, vh, %
+    */
+    /*    Medidas relativas
+    em, ec, rem, vw, vh, %
+    */

@@ -1,0 +1,19 @@
+h1{
+    background-color: gray;
+    height: 300px;
+    width: 300px;
+    
+    border: 10px sloid darkgray;
+
+    padding: 10px 20px;
+
+    margin:  20px auto 40px auto;
+
+    outline: 5px dashed salmon;
+}
+
+a{
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+}
