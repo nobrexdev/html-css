@@ -1,4 +1,3 @@
 # html-css
- cursor GustavoGuanabara
-
- estou gostando muito desse cursor de html css do gisyavo Guanabara<
+<strong> Este cursor estou fazendo do canal Gustavo Guanabara link abaixo</strong>
+<a href="https://www.youtube.com/c/CursoemV%C3%ADdeo"> Se você quiser executar o cursor tem diversões cursor de graça</a>
