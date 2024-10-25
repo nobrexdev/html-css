@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+:root{
+    --cor01: #3474eb;
+    --cor02: #0041ba;
+}
+
+
+body{
+    background-image: url(imagens/wallpaper001.jpg);
+}
+
 div.quadrada{
     display: inline-block;
     border:  2px solid black;
@@ -13,11 +23,11 @@ div#q1{
  background-color: skyblue;
 }
 
-div#q2{
- background-image: linear-gradient(to bottom, yellow, red);
+div#q2 {
+    background-image: linear-gradient(to bottom, yellow, red);
 }
 
 div#q3{
-
+background-image: url(imagens/pattern003.png);
 
 }
